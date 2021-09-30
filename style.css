@@ -205,7 +205,9 @@ header .navbar ul li a:hover{
     color:#666;
     padding:1rem 0;
 }
-
+.width100{
+    width: 100%;
+}
 .protect .box-container .box p{
     font-size: 1.4rem;
     color:#999;
